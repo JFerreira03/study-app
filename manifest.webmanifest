@@ -1,0 +1,13 @@
+{
+    "name": "Nursing Study Notes",
+    "short_name": "Nursing Notes",
+    "description": "Chapter summaries, quizzes and revision cards for nursing students.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#faf7f6",
+    "theme_color": "#9d2f5f",
+    "icons": [
+        { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    ]
+}
